@@ -1,0 +1,14 @@
+# secrets
+
+secret_info/
+secrets/
+secret*
+
+# npm packages
+node_modules/
+
+# zip files and all archives
+
+*.zip
+*.rar
+*.tar*
